@@ -16,6 +16,7 @@ bayes_opt
 triqler
 scikit-learn
 torch
+mamba
 argparse
 warnings
 ```
